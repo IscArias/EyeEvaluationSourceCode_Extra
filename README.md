@@ -19,4 +19,4 @@ The code load the list in the 'txt' file, searches the files with the same name 
 This reduce the amount of time needed to find specific files in large dataset.
 
     Confussion Matrix (For netTransfer)
-This allow to plot the Confussion Matrix of the specefic netTransfer
+This code allows to plot the Confussion Matrix for a specefic netTransfer
