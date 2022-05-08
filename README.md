@@ -1,5 +1,5 @@
 # EyeEvaluationSourceCode_Extra
-Additional Codes for Image Evaluation, Image Selection from Data Bases and Confussion Matrix Plotting
+Additional Codes for Image Evaluation, Image Selection from Data Bases and Confusion Matrix Plotting
 
     Image Evaluation (Optional)
     
@@ -19,4 +19,4 @@ The code load the list in the 'txt' file, searches the files with the same name 
 This reduce the amount of time needed to find specific files in large dataset.
 
     Confussion Matrix (For netTransfer)
-This code allows to plot the Confussion Matrix for a specefic netTransfer
+This code allows to plot the Confusion Matrix for a specefic netTransfer
