@@ -9,7 +9,7 @@ Load the test folder in the working browser, right click on the file 'Testimages
 
 left click on run or F9
 
-Select an image in the browser that opens to test it, the image is converted and a window with the results is displayed, the prediction percentage indicates how high the prediction was.
+Select an image in the browser that opens to test it, the image is converted and a window with the results is displayed, the prediction percentage indicates how high the prediction was. We recommend cropping the image if it contains black borders, to avoid prediction errors in the CNN.
 
     Image Selections (From large Datasets)
 This python scrip allows the selection of specific images from a large dataset, given a list in a 'txt' file.
