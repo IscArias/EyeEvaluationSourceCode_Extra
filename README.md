@@ -17,5 +17,5 @@ The Arrays.py code  allows the extraction of specific photos from the original f
     Confussion Matrix Visualization (For netTransfer)
 This code allows to plot the Confusion Matrix for a specefic netTransfer
 
-    Citations
+    PLEASE CITATE AS:
 Arias-Serrano I, Velásquez-López PA, Avila-Briones LN et al. Artificial intelligence based glaucoma and diabetic retinopathy detection using MATLAB — retrained AlexNet convolutional neural network [version 1; peer review: 1 approved with reservations]. F1000Research 2023, 12:14 (https://doi.org/10.12688/f1000research.122288.1)
